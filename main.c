@@ -1,4 +1,5 @@
 #include<stdio.h>
+int feature();
 int main() {
     char operator;
     float n1, n2, result;
@@ -44,5 +45,11 @@ int main() {
     }
 
     printf("Have a good day!\t\t");
+    feature();
+    return 0;
+}
+
+int feature() {
+    //some code here.
     return 0;
 }
