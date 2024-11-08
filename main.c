@@ -42,5 +42,7 @@ int main() {
             printf("Enter a correct operatorr");
             break;
     }
+
+    printf("Have a good day!\t\t");
     return 0;
 }
