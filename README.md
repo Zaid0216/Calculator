@@ -5,7 +5,7 @@ It is a progam that takes user input of character and two numbers.
 Open it in VS code and run
 
 ### Group Members
-Muhammad Zaid Khan
-Muhammad Mahad Hashmi
-Adnan Anwer
-Muhammad Uzair
+Muhammad Zaid Khan,
+ Muhammad Mahad Hashmi,
+ Adnan Anwer,
+ Muhammad Uzair,
