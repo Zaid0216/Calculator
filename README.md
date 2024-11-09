@@ -11,7 +11,7 @@ Muhammad Zaid Khan(CT-300),
  Muhammad Uzair(CT-299),
 
  ### Team Roles
- Muhammad Zaid Khan - Switch case implementation
-  Muhammad Mahad Hashmi - Switch case implementation
-  Adnan Anwer - Input implementation
+ Muhammad Zaid Khan - Switch case implementation,
+  Muhammad Mahad Hashmi - Switch case implementation,
+  Adnan Anwer - Input implementation,
   Uzair Irfan - Logic building
