@@ -11,7 +11,7 @@ Muhammad Zaid Khan(CT-300),
  Muhammad Uzair(CT-299),
 
  ### Team Roles
- Muhammad Zaid Khan - Switch case implementation,
-  Muhammad Mahad Hashmi - Switch case implementation,
+  Muhammad Zaid Khan - Architect behind the Code,
+  Muhammad Mahad Hashmi - Assistant in Versioning, and Branching,
   Adnan Anwer - Input implementation,
   Uzair Irfan - Logic building
